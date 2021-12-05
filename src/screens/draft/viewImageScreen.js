@@ -1,6 +1,6 @@
 import React from "react";
 import { View, Image, StyleSheet } from "react-native";
-import { colors } from "../config";
+import { colors } from "../../config";
 function ViewImageScreen(props) {
   return (
     <View style={styles.container}>
